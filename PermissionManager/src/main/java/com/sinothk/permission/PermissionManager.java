@@ -3,8 +3,8 @@ package com.sinothk.permission;
 import android.content.Context;
 import android.support.annotation.NonNull;
 
-import com.github.dfqin.grantor.PermissionListener;
-import com.github.dfqin.grantor.PermissionsUtil;
+import com.sinothk.permission.lib.PermissionListener;
+import com.sinothk.permission.lib.PermissionsUtil;
 
 /**
  * Created by 梁玉涛 on 2017/12/21.

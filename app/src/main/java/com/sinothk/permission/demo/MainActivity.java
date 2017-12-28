@@ -7,8 +7,6 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.Toast;
 
-import com.github.dfqin.grantor.PermissionListener;
-import com.github.dfqin.grantor.PermissionsUtil;
 import com.sinothk.permission.PermissionManager;
 import com.sinothk.permission.PermissionResultListener;
 
@@ -28,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
-    String[] permissions = {Manifest.permission.READ_SMS};
+    String[] permissions = {Manifest.permission.READ_SMS, Manifest.permission.CALL_PHONE};
 
     private void requestSms() {
         if (PermissionManager.haveAllPermission(this, permissions)) {

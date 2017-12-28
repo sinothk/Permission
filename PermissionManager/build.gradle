@@ -30,5 +30,5 @@ dependencies {
     testCompile 'junit:junit:4.12'
 
     // 授权依赖：https://github.com/dfqin/PermissionGrantor
-    compile 'com.github.dfqin:grantor:2.4'
+//    compile 'com.github.dfqin:grantor:2.4'
 }
