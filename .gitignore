@@ -1,0 +1,6 @@
+.gradle/
+.idea/
+PermissionLib.iml
+app/app.iml
+PermissionManager/build/
+app/build/
