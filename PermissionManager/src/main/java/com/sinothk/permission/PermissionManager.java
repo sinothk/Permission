@@ -1,7 +1,8 @@
 package com.sinothk.permission;
 
 import android.content.Context;
-import android.support.annotation.NonNull;
+
+import androidx.annotation.NonNull;
 
 import com.sinothk.permission.lib.PermissionListener;
 import com.sinothk.permission.lib.PermissionsUtil;

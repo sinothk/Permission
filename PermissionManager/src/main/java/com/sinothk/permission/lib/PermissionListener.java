@@ -1,6 +1,6 @@
 package com.sinothk.permission.lib;
 
-import android.support.annotation.NonNull;
+import androidx.annotation.NonNull;
 
 /**
  * Created by dfqin on 2017/1/20.
