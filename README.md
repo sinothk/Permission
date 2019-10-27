@@ -11,7 +11,7 @@ permission lib
     }
 # Step 2. Add the dependency
     dependencies {
-      implementation 'com.github.sinothk:Permission:v2.0.180222'
+       implementation 'com.github.sinothk:Permission:3.x.1027'
     }
 
 # Step 3. use
